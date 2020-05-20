@@ -1,4 +1,4 @@
-# Secure-Polygon-Problem
+# Secure Polygon
 
 IS SQUARE A SECURE POLYGON ?
 
